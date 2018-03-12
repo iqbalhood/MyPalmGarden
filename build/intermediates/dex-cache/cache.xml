@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/dccf1015c893cd1868b4805cac003a59cfed77f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c5d1c00a70238aeedc8cc1a811c65da6db0755f">
+        <dex dex="/Users/mac/Documents/ONCODING/Sawitku/app/build/intermediates/pre-dexed/debug/classes_990ce5cc39e091be23b56dd3f639cbf586db3a71.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Documents/ONCODING/Sawitku/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="710ff60ec24e9f721e2bf44a7198404434525852">
+        <dex dex="/Users/mac/Documents/ONCODING/Sawitku/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fb706d6eb7412449bface27dd649d71882ba0aba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Documents/ONCODING/Sawitku/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mac/Documents/ONCODING/Sawitku/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0277632e18e05164690d0725dfa3e889ff873dba/classes.dex" />
+    </item>
+
+</items>
